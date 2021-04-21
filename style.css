@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    margin: 0;
+    width: 100%;
+  }
+  
+  h1, p {
+    text-align: center;
+    margin: 0 auto;
+  }
+  h1 {
+    padding-top: 200px;
+  }
